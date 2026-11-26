@@ -1,0 +1,24 @@
+==========================================
+       SYSTEM INFORMATION REPORT
+==========================================
+Name        : Deepak Kumar
+Roll Number : 2601730444
+Date        : Thu Nov 26 13:07:00 UTC 2026
+
+---------- CPU INFORMATION ----------
+CPU Model : AMD Ryzen 7 7445HS w/ Radeon 740M Graphics
+CPU Cores : 6
+
+---------- MEMORY INFORMATION ----------
+Total Memory : 5.4Gi
+Used Memory  : 561Mi
+
+---------- TOP 3 CPU PROCESSES ----------
+    PID COMMAND         %CPU
+      1 systemd          0.0
+     89 systemd-udevd    0.0
+    160 networkd-dispat  0.0
+
+==========================================
+Report generated successfully.
+==========================================
